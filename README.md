@@ -14,7 +14,7 @@
 
 - 💻 Actualmente trabajando como **Software developer** en [Digi](https://github.com/DigiventuresFintech)
 - 🎓 Cursando 4to año de **Ingeniería en Sistemas** en la UTN (FRBA)
-- 🏃 Hobbies — Me gusta el deporte en genera, ultimamente mas **pádel** y **running**
+- 🏃 Hobbies — Me gusta el deporte en general, ultimamente mas **pádel** y **running**
 
 ---
 
