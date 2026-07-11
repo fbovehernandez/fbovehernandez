@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Facu</h1>
 
 <p align="center">
-  Software Developer @<a href="https://www.digiventures.la/">Digi</a> · Estudiante de Ingeniería en Sistemas (UTN) 
+  Software Developer @<a href="https://github.com/DigiventuresFintech">Digi</a> · Estudiante de Ingeniería en Sistemas (UTN) 
 </p>
 
 <p align="center">
@@ -12,8 +12,9 @@
 
 ### 🚀 Sobre mí
 
-- 💻 Actualmente trabajando como **Software developer** en [Digi](https://www.digiventures.la/)
+- 💻 Actualmente trabajando como **Software developer** en [Digi](https://github.com/DigiventuresFintech)
 - 🎓 Cursando 4to año de **Ingeniería en Sistemas** en la UTN (FRBA)
+- 🏃 Hobbies — Me gusta el deporte en genera, ultimamente mas **pádel** y **running**
 
 ---
 
