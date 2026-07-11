@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Facu</h1>
 
 <p align="center">
-  Software Developer @Digi · Estudiante de Ingeniería en Sistemas (UTN) 
+  Software Developer @<a href="https://www.digiventures.la/">Digi</a> · Estudiante de Ingeniería en Sistemas (UTN) 
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mí
 
-- 💻 Actualmente trabajando como **Software developer** en Digi
+- 💻 Actualmente trabajando como **Software developer** en [Digi](https://www.digiventures.la/)
 - 🎓 Cursando 4to año de **Ingeniería en Sistemas** en la UTN (FRBA)
 
 ---
@@ -20,14 +20,13 @@
 ### 🛠️ Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
 ---
